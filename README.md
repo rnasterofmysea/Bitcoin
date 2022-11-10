@@ -76,3 +76,6 @@ import plotly.express as px
 fig = px.line(df, y=['close'], title='USDT-Bitcoin ')
 fig.show() 
 ```
+## Regerence
+
+https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE08765374&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true
